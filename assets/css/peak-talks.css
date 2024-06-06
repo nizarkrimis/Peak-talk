@@ -1247,3 +1247,7 @@ preloader
     opacity: 0;
   }
 }
+
+.teal-color{
+  color: #05a88b;
+}
